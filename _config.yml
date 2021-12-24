@@ -1,2 +1,3 @@
 name: Vinicio Oliveira, Viniverse
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
