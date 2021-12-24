@@ -7,3 +7,7 @@ minima:
 header_pages:
   - about.md
   - portfolio.md
+minima:
+  social_links:
+    twitter: VinicioMiguel
+    github: ViniMig
