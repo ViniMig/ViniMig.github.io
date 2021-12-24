@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Viniverse, Hello github"
+title: "Viniverse, Hello dummies"
 date: 2021-12-24
 ---
 
