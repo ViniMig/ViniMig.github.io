@@ -9,11 +9,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/docs/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <nav>
+      <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/cv">CV</a></li>
+          <li><a href="/blog">Blog</a></li>
+      </ul>
+  </nav>
 
     <header class="page-header" role="banner" style="background-image: url('/docs/assets/6.png'); height: 400px; text-align: center;">
       <h1 class="project-name" style="transform: translate(0,100%)">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
