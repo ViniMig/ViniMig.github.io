@@ -50,6 +50,16 @@ nav ul li a{
   .separator{
       width: 10%;
   }
+  .interleft{
+    width: 45%;
+  }
+  .interright{
+    width: 45%;
+  }
+  .interseparator{
+      width: 5%;
+  }  
+
   /* Clear floats after the columns */
   .row:after {
     content: "";
