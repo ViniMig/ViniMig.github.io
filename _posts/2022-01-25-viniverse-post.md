@@ -2,6 +2,7 @@
 layout: post
 title: "Viniverse, The original"
 date: 2022-01-25
+comments: true
 ---
 ## The theory of the Viniverse
 
