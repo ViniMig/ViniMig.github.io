@@ -16,3 +16,5 @@ Instead of transcribing everything here from my first attempt, since all the eff
 Hope it is an entertaining read at the least and hopefully soon will have something else more specific to talk about, even more interesting! ...the bar is not set to high at least!
 
 ___
+
+### Drop some thoughts
