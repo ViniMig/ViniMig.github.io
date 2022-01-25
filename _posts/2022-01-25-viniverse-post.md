@@ -3,7 +3,7 @@ layout: post
 title: "Viniverse, The original"
 date: 2022-01-25
 ---
-#The theory of the Viniverse
+# The theory of the Viniverse
 
 Hi there, I decided to actually use a trustworthy service in github and github pages to put up my own personal page. It makes sense since it will be closer to my repositories.
 It has been a while since I decided to put up something like this together as a kind of portfolio to showcase myself and at the same time a journal of my thoughts, activities and memories.
