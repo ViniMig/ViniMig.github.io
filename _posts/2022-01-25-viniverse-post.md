@@ -14,3 +14,5 @@ So!<br>
 Instead of transcribing everything here from my first attempt, since all the effort still has its worth, I will just leave here the original page/text I wrote on my thoughts about Polymath, my belief that we all can do quite well in the most varied areas at the same time and, thus, the relation to and _raison d'être_ of the [Viniverse](http://viniverse.tilda.ws/){:target="_blank"}.
 
 Hope it is an entertaining read at the least and hopefully soon will have something else more specific to talk about, even more interesting! ...the bar is not set to high at least!
+
+___
