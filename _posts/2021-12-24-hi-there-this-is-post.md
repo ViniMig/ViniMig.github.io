@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Viniverse, Hello dummies"
+title: "Hello dummies"
 date: 2021-12-24
 ---
 
