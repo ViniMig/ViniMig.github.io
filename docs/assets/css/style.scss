@@ -64,3 +64,18 @@ nav ul li a{
     display: table;
     clear: both;
   }
+
+  .desktop-version{
+    display: block;
+  }
+  .mobile-version{
+    display: none;
+  }
+  @media screen and (max-width: 768px){
+    .desktop-version{
+      display: none;
+    }
+    .mobile-version{
+      display: block;
+    }
+  }
