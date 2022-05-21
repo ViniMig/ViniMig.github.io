@@ -24,7 +24,7 @@ However!<br><br>
 Yesterday I was watching ONE 157 (what a card it was!) and one of the fights was Rodtang Jitmuangnon vs Jacob Smith.<br>
 This fight promised to be fire! Two pressure fighters going at it for a chance to go on to the Grandprix semi-final. Jacob Smith a british Muay Thai fighter from Bad Company gym (if you are thinking about another super famous Muay Mat, Liam Harrison, you are correct!) taking on the current Champion, Rodtang Jitmuangnon.<br><br>
 
-[![ONE 157 Rodtang](https://img.youtube.com/vi/XxXGSNcaJHk/0.jpg)](https://youtu.be/S-XJn81FD_s?t=16111)
+[![ONE 157 Rodtang](https://img.youtube.com/vi/XxXGSNcaJHk/0.jpg)](https://youtu.be/S-XJn81FD_s?t=16111){:target="_blank"}
 <br><br>
 
 To be honest I expected the fight to be a slugfest with two fighters that simply do not step back or ever give up. However we saw a different Rodtang. An almost Muay femur Rodtang, more contained, more dynamic, steping in and out, mixing things up. Especially after he found a home for his elbows. There was a mix of elbows and very beautiful sweeps, Rodtang showed an evolution that can be described as scary. This already incredible figher, very experienced even though very young, over 300 fights at 24 years old, showed he is only evolving, there is no limit to this man.<br>
@@ -40,7 +40,7 @@ However, that is not what happened, and with all props due to Jacob Smith, I fel
 Even though the event was stacked with amazing fights, another fighter that displayed an amazing level of skill was Savvas Michael. This man became water in this fight. So serene, yet made his opponent, Amir Naseri, feel the crushing weight of water, what a skill to witness.<br>
 These young warriors can only make us thrilled for the future given the monstruous skill they already display!<br><br>
 
-[![ONE 157 Savvas](https://img.youtube.com/vi/kMOQa-aKNjI/0.jpg)](https://youtu.be/S-XJn81FD_s?t=8114)
+[![ONE 157 Savvas](https://img.youtube.com/vi/kMOQa-aKNjI/0.jpg)](https://youtu.be/S-XJn81FD_s?t=8114){:target="_blank"}
 <br><br>
 
 ___
