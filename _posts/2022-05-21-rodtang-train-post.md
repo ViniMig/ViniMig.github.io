@@ -23,7 +23,7 @@ However!<br><br>
 
 Yesterday I was watching ONE 157 (what a card it was!) and one of the fights was Rodtang Jitmuangnon vs Jacob Smith.<br>
 This fight promised to be fire! Two pressure fighters going at it for a chance to go on to the Grandprix semi-final. Jacob Smith a british Muay Thai fighter from Bad Company gym (if you are thinking about another super famous Muay Mat, Liam Harrison, you are correct!) taking on the current Champion, Rodtang Jitmuangnon.<br><br>
-Click to watch the fight.
+Click to watch the fight.<br>
 [![ONE 157 Rodtang](https://img.youtube.com/vi/XxXGSNcaJHk/0.jpg)](https://youtu.be/S-XJn81FD_s?t=16111){:target="_blank"}
 <br><br>
 
@@ -37,12 +37,13 @@ However, that is not what happened, and with all props due to Jacob Smith, I fel
 
 ### Honourable mention
 
-Even though the event was stacked with amazing fights, another fighter that displayed an amazing level of skill was Savvas Michael. This man became water in this fight. So serene, yet made his opponent, Amir Naseri, feel the crushing weight of water, what a skill to witness.<br>
-These young warriors can only make us thrilled for the future given the monstruous skill they already display!<br><br>
-Click to watch the fight.
+Even though the event was stacked with amazing fights, another fighter that displayed an amazing level of skill was Savvas Michael. This man became water in this fight. So serene, yet made his opponent, Amir Naseri, feel the crushing weight of water, what a skill to witness.<br><br>
+
+Click to watch the fight.<br>
 [![ONE 157 Savvas](https://img.youtube.com/vi/kMOQa-aKNjI/0.jpg)](https://youtu.be/S-XJn81FD_s?t=8114){:target="_blank"}
 <br><br>
 
+These young warriors can only make us thrilled for the future given the monstruous skill they already display!<br><br>
 ___
 
 ### Drop some thoughts
