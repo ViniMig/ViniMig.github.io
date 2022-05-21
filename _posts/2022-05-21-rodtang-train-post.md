@@ -7,7 +7,7 @@ comments: true
 ## Muay Thai the art of chaotic harmony
 
 I love Martial arts, and most especially, by far, I love Muay Thai. I can't begin to express how much it changed me from the first moment I decided to join a Muay Thai gym, 6 years ago after having moved to Madrid.<br>
-The art of the 8 limbs is in fact much more than that. It is known obviously for the use of your 2 hands, 2 elbows, 2 knees and 2 legs. It uses however much more than that, it requires you to use your feet, your movement, your body weight and all of the former if we think about the clinch. It has sweeps, dumps, it is a game of balance, elegance and dominance. It indeed requires you to use all those limbs and your big brain.<br>
+The art of the 8 limbs is in fact much more than that. It is known obviously for the use of your 2 hands, 2 elbows, 2 knees and 2 legs. Muay Thai is much more than that. It requires you to use your feet and your movement, your body weight, head movement and all of the former if we think about the clinch. It has sweeps, dumps, it is a game of balance, elegance, dominance and detail. It indeed requires you to use all those limbs plus your big brain.<br>
 If I had to define Muay Thai with two word would probably be "elegant paradox". Because in this art that is extremely violent and prioritizes damage to your oponent, it requires you to be humble but aggressive, focused but relaxed and serene. And all of these attributes almost seem to contradict each other, thus why it is a paradox.<br><br>
 
 ## Rodtang a "monster" who should rename himself to RodtanK
