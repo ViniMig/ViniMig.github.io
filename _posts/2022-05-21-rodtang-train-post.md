@@ -31,7 +31,7 @@ To be honest I expected the fight to be a slugfest with two fighters that simply
 
 The fight itself was incredible, on one side a masterful Rodtang, and on the other side, as is what makes a fight special, a very tough opponent that showed he was there to win, and if not, to make Rodtang work for it until the last bell.<br>
 
-Jacob Smith, in my eyes, seemed disappointed at the end of the fight. With all reason to be so, as he went in with nothing else but victory in his mind and it showed. I believe if Rodtang fought as usually, we could have seen a different outcome to this fight. If on one side Jacob Smith understanbly feels disappointed, he should also feel very proud in the display he put yesterday. One wonders even if the elbows that connected early did not, we could also have had a different fight.<br>
+Jacob Smith, in my eyes, seemed disappointed at the end of the fight. With all reason to be so, as he went in with nothing else but victory in his mind and it showed. I believe if Rodtang fought as usually, we could have seen a different outcome to this fight. If on one side Jacob Smith understandably feels disappointed, he should also feel very proud in the display he put yesterday. One wonders even if the elbows that connected early did not, we could also have had a different fight.<br>
 
 However, that is not what happened, and with all props due to Jacob Smith, I felt inspired to write about Rodtang. The skill he displayed, that of a Muay Femur showed me that I was absolutely underestimating Rodtang's array of abilities. The scary part is the dangerous combination of a highly durable and strong Muay Mat with the grace and fight IQ of a Muay Femur. The result is a dominant victory against a very dangerous and strong opponent.<br>
 
