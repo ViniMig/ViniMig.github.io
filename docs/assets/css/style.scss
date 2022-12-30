@@ -105,9 +105,11 @@ nav ul li a{
     clear: both;
 }
 
-.desktop-version, .mobile-version{
+.desktop-version,
+.mobile-version{
     position: sticky;
     top: 0;
+    z-index: 10;
 }
 
 .desktop-version{
