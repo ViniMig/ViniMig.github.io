@@ -19,7 +19,7 @@ nav ul li a{
 }
 
 .header-nav{
-    background-color: rgba(17, 17, 18, 0.8);
+    background-color: rgba(17, 17, 18, 0.9);
     text-align: center;
     position: fixed;
     top: 0;
@@ -28,8 +28,14 @@ nav ul li a{
 
 .nav-title{
     text-align: left;
-    margin-left: 5px;
+    margin-left: 20px;
 }
+
+.page-header{
+    background-image: url('/docs/assets/6-background.png');
+    background-size: cover;
+}
+
 
 .fa-exclamation-triangle {
     color: orange;
