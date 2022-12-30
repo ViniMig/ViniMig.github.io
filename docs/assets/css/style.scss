@@ -60,14 +60,17 @@ a:active {
     padding: 10px;
     margin-left: auto;
 }
+
 .page-header{
     display: flex;
     background-image: url('/docs/assets/6-background.png');
     background-size: cover;
-    position: fixed;
+    position: sticky;
+    width: 100%;
     top: 76px;
     z-index: -1;
 }
+
 .page-header .project-name{
     margin-left: auto;
     margin-right: auto;
@@ -98,7 +101,7 @@ a:active {
     width: 60%;
   }
   .separator{
-      width: 5%;
+    width: 5%;
   }
   .interleft{
     width: 45%;
@@ -121,7 +124,7 @@ a:active {
 .mobile-version{
     position: sticky;
     top: 0;
-    z-index: 10;
+    z-index: 1;
 }
 
 .desktop-version{
