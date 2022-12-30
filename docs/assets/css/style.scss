@@ -20,6 +20,8 @@ nav ul li a{
 
 .header-nav{
     display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
     background-color: rgba(17, 17, 18, 0.9);
     align-items: center;
     position: fixed;
