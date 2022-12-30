@@ -24,7 +24,11 @@ nav ul li a{
     position: fixed;
     top: 0;
     width: 100%;
-    opacity: 0.5;
+}
+
+.nav-title{
+    text-align: left;
+    margin-left: 5px;
 }
 
 .fa-exclamation-triangle {
