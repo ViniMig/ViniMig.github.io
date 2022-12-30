@@ -61,7 +61,7 @@ a:active {
     margin-left: auto;
 }
 
-.page-header{
+.page-banner{
     display: flex;
     background-image: url('/docs/assets/6-background.png');
     background-size: cover;
@@ -70,7 +70,11 @@ a:active {
     margin-top: 76px;
 }
 
-.page-header .project-name{
+.mobile-banner{
+    margin-top: 152px;
+}
+
+.page-banner .project-name{
     margin-left: auto;
     margin-right: auto;
 }
@@ -130,20 +134,24 @@ a:active {
 .desktop-version{
     display: block;
 }
+
 .mobile-version,
-.mobile-version-header{
+.mobile-version-header,
+.mobile-banner{
     display: none;
 }
 
 @media screen and (max-width: 768px){
     .desktop-version-header,
-    .desktop-version{
+    .desktop-version,
+    .desktop-banner{
         display: none;
     }
     .mobile-version{
         display: block;
     }
-    .mobile-version-header{
+    .mobile-version-header,
+    .mobile-banner{
         display: flex;
     }
 }

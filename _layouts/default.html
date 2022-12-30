@@ -33,6 +33,10 @@
         </nav>
     </div>
 
+    <div class="page-banner desktop-banner" role="banner">
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+    </div>
+
     <!--appropriate changes for mobile version/smaller screen-->
     <div class = "mobile-version-header">
         <nav class ="header-nav">
@@ -47,7 +51,7 @@
         </nav>
     </div>
     
-    <div class="page-header" role="banner">
+    <div class="page-banner mobile-banner" role="banner">
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
     </div>
     
