@@ -23,8 +23,6 @@ nav ul li a{
     flex-wrap: wrap;
     background-color: rgba(17, 17, 18, 0.9);
     align-items: center;
-    position: sticky;
-    top: 0;
     width: 100%;
 }
 
@@ -100,24 +98,30 @@ nav ul li a{
       width: 5%;
   }  
 
-  /* Clear floats after the columns */
-  .row:after {
+/* Clear floats after the columns */
+.row:after {
     content: "";
     display: table;
     clear: both;
-  }
+}
 
-  .desktop-version{
-    display: block;
-  }
-  .mobile-version{
-    display: none;
-  }
-  @media screen and (max-width: 768px){
+.desktop-version, .mobile-version{
+    position: sticky;
+    top: 0;
+}
+
+//   .desktop-version{
+//     display: block;
+//   }
+//   .mobile-version{
+//     display: none;
+//   }
+
+@media screen and (max-width: 768px){
     .desktop-version{
       display: none;
     }
     .mobile-version{
       display: block;
     }
-  }
+}
