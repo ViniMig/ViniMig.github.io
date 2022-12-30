@@ -65,7 +65,6 @@ a:active {
     display: flex;
     background-image: url('/docs/assets/6-background.png');
     background-size: cover;
-    position: sticky;
     width: 100%;
     top: 76px;
     z-index: -1;
@@ -139,10 +138,10 @@ a:active {
 @media screen and (max-width: 768px){
     .desktop-version-header,
     .desktop-version{
-      display: none;
+        display: none;
     }
     .mobile-version{
-      display: block;
+        display: block;
     }
     .mobile-version-header{
         display: flex;
