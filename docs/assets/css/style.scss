@@ -31,7 +31,7 @@ a:active {
     background-color: rgba(17, 17, 18, 0.9);
     align-items: center;
     width: 100%;
-    position: sticky;
+    position: fixed;
     top: 0;
 }
 
@@ -64,6 +64,9 @@ a:active {
     display: flex;
     background-image: url('/docs/assets/6-background.png');
     background-size: cover;
+    position: fixed;
+    top: 76px;
+    z-index: -1;
 }
 .page-header .project-name{
     margin-left: auto;
@@ -74,10 +77,6 @@ a:active {
 .fa-exclamation-triangle {
     color: orange;
   }
-
-.main-content{
-    z-index: -1;
-}
 
 .main-content h1, 
 .main-content h2, 
