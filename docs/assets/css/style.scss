@@ -31,9 +31,14 @@ nav ul li a{
     color: white;
     margin: 10px;
     padding: 20px;
-    opacity: 1;
 }
 
+.header-nav .nav-menu{
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
 .page-header{
     background-image: url('/docs/assets/6-background.png');
     background-size: cover;
