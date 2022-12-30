@@ -19,6 +19,7 @@ nav ul li a{
 }
 
 .header-nav{
+    display: flex;
     background-color: rgba(17, 17, 18, 0.9);
     text-align: center;
     position: fixed;
@@ -26,9 +27,10 @@ nav ul li a{
     width: 100%;
 }
 
-.nav-title{
-    text-align: left;
-    margin-left: 20px;
+.header-nav .nav-title{
+    margin: 10px;
+    padding: 20px;
+    opacity: 1;
 }
 
 .page-header{
