@@ -111,7 +111,7 @@ nav ul li a{
 }
 
 .desktop-version{
-    display: flex;
+    display: block;
 }
 .mobile-version{
     display: none;
@@ -122,6 +122,6 @@ nav ul li a{
       display: none;
     }
     .mobile-version{
-      display: flex;
+      display: block;
     }
 }
