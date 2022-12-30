@@ -20,6 +20,10 @@ nav ul li a{
 
 .header-nav{
   text-align: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  opacity: 0.5;
 }
 
 .fa-exclamation-triangle {
