@@ -27,9 +27,9 @@ a:active {
 
 .header-nav{
     display: flex;
-    flex-wrap: wrap;
-    background-color: rgba(17, 17, 18, 0.9);
-    align-items: center;
+    background-color: #000033;
+    align-items: flex-start;
+    gap: 30vw;
     width: 100%;
     position: fixed;
     top: 0;
@@ -41,12 +41,18 @@ a:active {
     padding: 10px;
 }
 
-.header-nav .nav-menu{
+.header-nav .nav-fixed {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#nav-menu{
+    display: flex;
+    width: 50%;
+    align-items: flex-start;
+    justify-content: space-between;
     color: white;
-    margin: 10px;
-    padding: 10px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 #dark-mode {
@@ -64,13 +70,21 @@ a:active {
     margin-left: auto;
 }
 
+.icon {color: white;}
+
+.icon:hover {cursor: pointer;}
+
+.more {
+    display: none;
+}
+
 .page-banner{
     display: flex;
     background-image: url('/docs/assets/pictures/6-background.png');
     background-size: cover;
     width: 100%;
     height: 300px;
-    margin-top: 76px;
+    margin-top: 70px;
     align-items: center;
 }
 
@@ -190,3 +204,14 @@ a:active {
 }
 
 .desktop-version{display: block;}
+
+@media screen and (max-width: 600px) {
+    #nav-menu {display: none;}
+    .header-nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .header-nav .more {
+         display: inline-flex;
+     }
+}
