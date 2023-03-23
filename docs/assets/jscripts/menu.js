@@ -1,4 +1,5 @@
 var isHidden = true;
+var currentWidth = window.innerWidth;
 
 function displayMenu()
 {
@@ -14,4 +15,9 @@ function displayMenu()
     isHidden = !isHidden;
 }
 
-function refresh() { location.reload(); }
+function refresh() {
+    if (window.innerWidth != currentWidth){
+        currentWidth = window.innerWidth;
+        location.reload();
+    } 
+}
