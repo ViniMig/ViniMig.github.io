@@ -45,13 +45,14 @@ function setLight(darkIcon, lightIcon, mainHeaders)
     darkIcon.style.display = "inline";
     lightIcon.style.display = "none";
     document.body.style.backgroundColor = "white";
-    document.body.style.color = "rgb(96, 108, 113)";
+    //document.body.style.color = "rgb(96, 108, 113)";
+    document.body.style.color = "#000033";
     for (let i = 0; i < mainHeaders.length; i++)
     {
         let currentH = mainHeaders[i];
         for (let j = 0; j < currentH.length; j++)
         {
-            currentH[j].style.color = "midnightblue";
+            currentH[j].style.color = "#000099";
         }
     }
 }
