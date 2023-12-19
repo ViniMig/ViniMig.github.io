@@ -103,6 +103,18 @@ a:active {
     margin: 10px 0;
 }
 
+.greet {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.greet img {
+    width: 200px;
+    height: 250px;
+}
+
 .fa-exclamation-triangle {
     color: orange;
     margin-right: 20px;
