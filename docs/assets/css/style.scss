@@ -165,11 +165,11 @@ a:active {
 
 #biometric {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 4rem 4rem;
     align-items: start;
     justify-items: start;
-    column-gap: 10px;
+    column-gap: 30px;
 }
 
 #biometric h3 {grid-column: 1/5;}
