@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Novo livro do maior autor Português de todos os tempos"
+description: "Uma descrição sobre José Messi Ronaldo Tolkien, o seu novo livro relativo ao 9ºC."
 date: 2026-10-17
+tags: [Tolkien, José, Messi, Ronaldo, livro, prémios]
 comments: true
 ---
 
@@ -9,7 +11,7 @@ Este artigo não é sátira.
 
 ## Quem é José Messi Ronaldo Tolkien
 
-José Messi Ronal Tolkien, mais conhecido por Zé Tolkien, nasceu a 25 de Abril de 1903 na cidade de Fafe, Portugal. Desde o seu nascimento Tolkien deu que falar, uma vez que nasceu no meio do parque da cidade de Fafe. Hoje em dia, no local do seu nascimento, existe a Escola Básica de Montelongo, que foi erguida em sua honra. Os locais, conhecem-na como "a escola do Zé".<br>
+José Messi Ronaldo Tolkien, mais conhecido por Zé Tolkien, nasceu a 25 de Abril de 1903 na cidade de Fafe, Portugal. Desde o seu nascimento Tolkien deu que falar, uma vez que nasceu no meio do parque da cidade de Fafe. Hoje em dia, no local do seu nascimento, existe a Escola Básica de Montelongo, que foi erguida em sua honra. Os locais, conhecem-na como "a escola do Zé".<br>
 
 Desde muito cedo Tolkien, mostrou o seu potencial para a escrita com a sua saga: "Bolas de ouro", onde inícia desde o primeiro livro da série "1ª Bola de ouro" e seguindo-se a nomenclatura para os restantes 4 livros da saga. Uma série de televisão, baseada nesta obra, foi criada na tv local de Fafe (FafeTV) com o nome "Nun'Álvares". Venceu já vários prémios literários internacionais tais como: Fafe página de ouro e o prémio De Boon.<br>
 
